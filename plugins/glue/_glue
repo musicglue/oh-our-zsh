@@ -1,0 +1,4 @@
+#compdef glue
+#autoload
+
+compadd `./glue list | grep glue | cut -d " " -f 2`
