@@ -1,4 +1,3 @@
-    mkdir -p ~/.oh-my-zsh/custom
-    cp -R . ~/.oh-my-zsh/custom
-
-Then reopen terminal.
+1) cp -R * ~/.oh-my-zsh/plugins
+2) edit your ~/.zshrc to activate your preferred plugins
+3) Re-open your terminal
